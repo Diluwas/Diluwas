@@ -3,22 +3,19 @@
 
 ### Who am I?
 
-I'm a tech enthusiast who would like to explore new technologies, not just programming languages but also devices.
-I love to share knowledge with the rest of the world, and that's why I write a lot of articles, conduct courses, and make YouTube videos.
-Since I'm (still) a full-time Software Engineer, I also like to share my code so others can make use of them.
+I'm currently working as Software Engineer. I have strong desire in learning new technologies and working with them. I am passionate about areas such as software design, IOT, machine learning, and digital electronics. I am willing to provide meaningful contribution to my country using my knowledge.
 
 ### My stats
 
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=gnomezgrave&show_icons=true&include_all_commits=true&theme=dracula" alt="GitHub stats" />
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gnomezgrave&&exclude_repo=gnomezgrave&layout=compact&theme=dracula" alt="languages"/>
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=Diluwas&show_icons=true&include_all_commits=true&theme=dracula" alt="GitHub stats" />
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Diluwas&&exclude_repo=Diluwas&layout=compact&theme=dracula" alt="languages"/>
 
 ### Top Repositories
 
-* [GCP Serverless Orchestrator](https://github.com/gnomezgrave/gcp-serverless-orchestrator)
-* [AWS Image Service](https://github.com/gnomezgrave/aws-s3-image-service)
-* [Pull Request Reports](https://github.com/gnomezgrave/pull-request-reports)
-* [Copy DynamoDB Table](https://github.com/gnomezgrave/copy-dynamodb-table)
-* [Qt Auto Translator](https://github.com/gnomezgrave/qt-auto-translator)
-* [Copy Dynamo DB Table](https://github.com/gnomezgrave/copy-dynamodb-table)
-* [A-Star Algorithm](https://github.com/gnomezgrave/A-Star)
+* [Competitive-Cycling-over-5G](https://github.com/Diluwas/Competitive-Cycling-over-5G)
+* [IOT-Project](https://github.com/Diluwas/IOT-Project)
+* [Smart-Timetable](https://github.com/dulsaragimhana/Smart-Timetable)
+* [Robofest_2021](https://github.com/charithjanaka/Robofest_2021)
+* [Team-X-Tumbler - Robot](https://github.com/charithjanaka/Team-X-Tumbler)
+* [Stationary-Solar-Charger](https://github.com/charithjanaka/Stationary-Solar-Charger)
 
