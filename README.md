@@ -7,8 +7,8 @@ I'm currently working as Software Engineer. I have strong desire in learning new
 
 ### My stats
 
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=Diluwas&show_icons=true&include_all_commits=true&theme=dracula" alt="GitHub stats" />
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Diluwas&&exclude_repo=Diluwas&layout=compact&theme=dracula" alt="languages"/>
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=Diluwas&show_icons=true&include_all_commits=true&theme=cobalt" alt="GitHub stats" />
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Diluwas&&exclude_repo=Diluwas&layout=compact&theme=cobalt" alt="languages"/>
 
 ### Top Repositories
 
